@@ -2983,7 +2983,7 @@ input, select, textarea {
 		transition: transform 0.45s ease, visibility 0.45s;
 		position: fixed;
 		top: 0;
-		right: 0;
+		left: 0;
 		width: 22em;
 		max-width: 80%;
 		height: 100%;
